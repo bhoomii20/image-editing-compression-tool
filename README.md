@@ -3,7 +3,13 @@
 An interactive web-based tool built for **Image Processing and Vision (IPV)** course that combines **image editing** with **JPEG compression** and real-time visual analysis.
 
 ---
+## 🚀 Live Demo
 
+**Try the app here:**  
+**[🔗 Open Live App]([https://your-app-name.streamlit.app](https://bhoomii20-image-editing-compression-tool.streamlit.app/])**
+
+
+---
 ## ✨ Features
 
 ### Editing Tools
@@ -36,12 +42,3 @@ An interactive web-based tool built for **Image Processing and Vision (IPV)** co
 - **NumPy** – Pixel-level operations
 - **Matplotlib** – Histograms
 - **scikit-image** – PSNR calculation
-
----
-
-## 🚀 How to Run
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/image-compression-visualizer.git
-cd image-compression-visualizer
