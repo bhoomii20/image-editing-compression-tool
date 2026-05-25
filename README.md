@@ -5,8 +5,8 @@ An interactive web-based tool built for **Image Processing and Vision (IPV)** co
 ---
 ## 🚀 Live Demo
 
-**Try the app here:**  
-**[🔗 Open Live App]([https://your-app-name.streamlit.app](https://bhoomii20-image-editing-compression-tool.streamlit.app/]))**
+**Try it here:**  
+**[🔗 Open Live App](https://bhoomii20-image-editing-compression-tool.streamlit.app/)**
 
 
 ---
